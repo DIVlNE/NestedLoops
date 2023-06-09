@@ -16,6 +16,7 @@ public class NestedLoops {
             }
         }
         System.out.println("The number of same name matches " + matchCounter);
+        System.out.println("The number of same name matches " + matchCounter);
 
     }
 
